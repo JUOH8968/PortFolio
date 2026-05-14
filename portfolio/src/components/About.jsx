@@ -30,7 +30,7 @@ const About = () => {
                   <img src="/images/icon_tistory.png" alt="Tistory" className="custom-icon-img" />
                   <span className="link-text">Blog</span>
                 </a>
-                <a href="https://drive.google.com/file/d/1cj2uniuxjxzRZ6UALy4uy6BcQScJymo0/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="link-item">
+                <a href="https://drive.google.com/file/d/1f5HYds3yqon7waP-Ai2Iyh7Gd--8OnTk/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="link-item">
                   <span className="link-icon" style={{ fontSize: '1.3rem' }}>📄</span>
                   <span className="link-text" style={{ fontWeight: 'bold', color: 'var(--accent-color)' }}>이력서 보기</span>
                 </a>
